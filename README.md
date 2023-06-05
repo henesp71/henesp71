@@ -1,5 +1,5 @@
 # 💫 About Me:
-✓ Currently working as a .NET Developer Analyst, specializing in .NET Core Projects.<br>✓ Proficient in optimizing database processes to enhance efficiency and performance.<br>✓ Dedicated to adding value to software development projects through innovative data management strategies.<br>✓ Strong believer that customer satisfaction is the primary measure of software quality.<br>✓ Passionate about providing reliable and innovative software solutions.
+✓ Currently working as a .NET Developer Analyst, specializing in .NET Projects.<br>✓ Proficient in optimizing database processes to enhance efficiency and performance.<br>✓ Strong believer that customer satisfaction is the primary measure of software quality.<br>✓ Passionate about providing reliable and innovative software solutions.
 
 
 ## 🌐 Socials:
