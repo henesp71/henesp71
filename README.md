@@ -61,6 +61,7 @@ Flutter, Android SDK, Enterprise Architect, Microsoft Project
 
 ## Certifications
 
+- [Microsoft Certified: Github Copilot](https://learn.microsoft.com/api/credentials/share/en-us/henesp71/218493B69F7DB672?sharingId=EDB7177CD39DAE94)
 - [Microsoft Certified: Azure Fundamentals](https://learn.microsoft.com/api/credentials/share/en-us/henesp71/2C3F7FDC2AE6308A?sharingId=EDB7177CD39DAE94)
 - [Scrum Foundation Professional Certification - SFPC](https://www.credly.com/badges/47f79f12-104a-45e0-ad43-9d3b8662708a/public_url)
 
